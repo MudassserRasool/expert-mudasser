@@ -1,4 +1,6 @@
 .reuseableBookNowButtonContainer {
+  position: relative;
+  top: 252px;
     display: flex;
   }
   
