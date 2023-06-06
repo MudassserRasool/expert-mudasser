@@ -1,0 +1,19 @@
+.getDiscountText {
+  position: absolute;
+  width: 333px;
+  height: auto;
+  /* left: calc(50% - 333px/2 - 7.5px); */
+  top: 273px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 125.02%;
+  /* or 33px */
+
+  text-align: center;
+  background-color: brown;
+  width: 511px;
+  color: #ffffff;
+}

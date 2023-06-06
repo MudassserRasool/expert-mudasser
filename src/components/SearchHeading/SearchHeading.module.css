@@ -1,0 +1,30 @@
+.SearchHeading {
+  position: absolute;
+  left: 0%;
+  right: 51.05%;
+  /* top: 20.16%; */
+  /* bottom: 62.89%; */
+  top:89px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #ffffff;
+  background-color: brown;
+}
+
+.SearchHeadingInnerText {
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 470;
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #FFFFFF;
+    background-color: brown;
+}

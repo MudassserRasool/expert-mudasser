@@ -1,0 +1,38 @@
+.GetAppButtonBackground {
+  position: absolute;
+  height: 46px;
+  width: 173px;
+  left: 170px;
+  top: 365px;
+  border-radius: 6px;
+  background: #ff6767;
+  box-shadow: 0px 9px 18px rgba(255, 118, 118, 0.5);
+  border-radius: 6px;
+}
+
+.GetAppIcon{
+    position: absolute;
+    left: 11.17%;
+    right: 29.17%;
+    top: 25.38%;
+    /* bottom: 48.5%; */
+    
+    /* border: 1.5px solid #FFFFFF; */
+}
+
+.GetAppButtonText{
+    position: absolute;
+    left: 31.16%;
+    right: 14.58%;
+    top: 32.38%;
+    bottom: 91.16%;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}

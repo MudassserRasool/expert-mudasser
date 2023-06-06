@@ -1,0 +1,22 @@
+.BigOfferText {
+  /* Big Offers */
+
+  position: absolute;
+  width: 255px;
+  height: 40px;
+  /* left: calc(50% - 255px/2 - 7.5px); */
+  /* top: 208px; */
+  top: 210px;
+  /* left: 621px; */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 95.52%;
+  /* or 32px */
+  width: 511px;
+  text-align: center;
+  /* background: #fd5e5e; */
+  color: #000000;
+}
