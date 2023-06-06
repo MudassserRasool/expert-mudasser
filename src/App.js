@@ -9,12 +9,13 @@ import React from 'react'
 // import ReuseableText from './components/ReuseableText/ReuseableText'
 // import Menues from './components/Menues/Menues'
 // import Menue from './components/Menue/Menue'
-import SearchHeading from './components/SearchHeading/SearchHeading'
 // import SearchInput from './components/SearchInput/SearchInput.JSX'
+import SearchHeading from './components/SearchHeading/SearchHeading'
 import InputField from './components/InputField/InputField'
 import BigOfferText from './components/BigOfferText/BigOfferText'
 import DiscountText from './components/DiscountText/DiscountText'
 import GetAppButton from './components/GetAppButton/GetAppButton'
+import Card from './components/Card/Card'
 
 const App = () => {
   return (
@@ -27,11 +28,16 @@ const App = () => {
       {/* <Menues/> */}
       {/* <Menue/> */}
       {/* <MyComponent/> */}
-    <SearchHeading/>
+
+
+
+
+    {/* <SearchHeading/>
     <InputField/>
     <BigOfferText/>
     <DiscountText/>
-    <GetAppButton/>
+    <GetAppButton/> */}
+    <Card/>
     </div>
   )
 }
