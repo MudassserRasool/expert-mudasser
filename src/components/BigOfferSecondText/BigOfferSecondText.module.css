@@ -1,0 +1,34 @@
+.bigOfferSecondText{
+    position: absolute;
+    width: 255px;
+    height: 40px;
+    /* left: calc(50% - 255px/2 + 256.5px);*/
+    top: 63px; 
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 95.52%;
+    /* or 32px */
+    
+    
+    color: #000000;
+    
+}
+
+.getDiscountText{
+    position: absolute;
+    width: 333px;
+    height: 93px;
+    /* left: calc(50% - 333px/2 + 297.5px); */
+    top: 126px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 125.02%;
+    color: #FFFFFF;
+    background-color: brown;
+    }

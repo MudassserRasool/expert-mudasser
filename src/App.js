@@ -16,10 +16,13 @@ import BigOfferText from './components/BigOfferText/BigOfferText'
 import DiscountText from './components/DiscountText/DiscountText'
 import GetAppButton from './components/GetAppButton/GetAppButton'
 import Card from './components/Card/Card'
+import BigOfferSecondText from './components/BigOfferSecondText/BigOfferSecondText'
+import ReuseableBookNowButton from './components/ReuseableBookNowButton/ReuseableBookNowButton'
+// import GetDiscountText from './components/GetDiscountText/GetDiscountText'
 
 const App = () => {
   return (
-    <div className="bg-danger">
+    <div>
       {/* <Header/> */}
       {/* <ReuseableButton status = "3"/> */}
       {/* <Form/> */}
@@ -37,7 +40,13 @@ const App = () => {
     <BigOfferText/>
     <DiscountText/>
     <GetAppButton/> */}
-    <Card/>
+    {/* <Card/> */}
+    <div>
+          <BigOfferSecondText/>
+    {/* <ReuseableBookNowButton/>
+    <ReuseableBookNowButton/> */}
+    </div>
+
     </div>
   )
 }
