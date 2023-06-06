@@ -1,0 +1,14 @@
+.discountAnnoucementText {
+  position: absolute;
+  width: 255px;
+  height: 40px;
+  /* left: calc(50% - 255px/2 + 257.5px); */
+  top: 147px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 95.52%;
+  color: #ff0000;
+}

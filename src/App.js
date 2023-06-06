@@ -18,6 +18,7 @@ import GetAppButton from './components/GetAppButton/GetAppButton'
 import Card from './components/Card/Card'
 import BigOfferSecondText from './components/BigOfferSecondText/BigOfferSecondText'
 import ReuseableBookNowButton from './components/ReuseableBookNowButton/ReuseableBookNowButton'
+import DiscountAnnoucement from './components/DiscountAnnoucement/DiscountAnnoucement'
 // import GetDiscountText from './components/GetDiscountText/GetDiscountText'
 
 const App = () => {
@@ -41,12 +42,12 @@ const App = () => {
     <DiscountText/>
     <GetAppButton/> */}
     {/* <Card/> */}
-    <div>
-          <BigOfferSecondText/>
+  
+          {/* <BigOfferSecondText/> */}
     {/* <ReuseableBookNowButton/>
     <ReuseableBookNowButton/> */}
-    </div>
-
+   
+<DiscountAnnoucement/>
     </div>
   )
 }
